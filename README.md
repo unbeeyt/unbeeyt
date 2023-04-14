@@ -7,7 +7,7 @@ Things i wanna learn in the future:
 - [ ] Make a functioning game which works on an phone with decent graphics
 - [ ] Make a discord bot with a web dashboard
 
-You can join my discord here:
+You can join my discord here:\
 ![Discord Banner 3](https://discordapp.com/api/guilds/1037850846442037308/widget.png?style=banner3)
 
 
