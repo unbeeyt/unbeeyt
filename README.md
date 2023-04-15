@@ -25,3 +25,4 @@ Stats:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=unbee_yt)]
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/829013256416919625)](https://discord.com/users/829013256416919625)
+![:unbeeytgithub](https://count.getloli.com/get/@:unbeeytgithub)
