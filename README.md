@@ -1,4 +1,5 @@
-Hey there im Jay im a coding enthusiast based in germany. I mostly do HTML, JavaScript, CSS, Python. Im courious person and im always developing besides my nursing job. Im a tech enthusiast since i was 10 learned HTML and CSS with a side bit of Javascript. 
+Hey there im Jay im a coding enthusiast based in germany. I have experience with C#, C++, Javascript, HTML,.NET and Python . Im courious person and im always developing besides my nursing job. Im a tech enthusiast since i was 10 learned HTML and CSS with a side bit of Javascript. 
+
 
 
 
