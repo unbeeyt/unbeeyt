@@ -1,11 +1,11 @@
-Hey there im Jay im a coding enthusiast based in germany. I have experience with C#, C++, Javascript, HTML,.NET and Python . Im courious person and im always developing besides my nursing job. Im a tech enthusiast since i was 10 learned HTML and CSS with a side bit of Javascript. 
+Hey there im Jay im a coding enthusiast based in germany. I have experience with C#, C++, Javascript, HTML,.NET and Python . Im courious person and im always developing aswell jn my private time besides my junior web dev position. Im a tech enthusiast since i was 10 learned HTML and CSS with a side bit of Javascript. 
 
 
 
 
 Things i wanna learn in the future:
 - [ ] Make my own api with a Twitch integration 
-- [ ] Make a functioning game which works on an phone with decent graphics
+- [-] Make a functioning game which works on an phone with decent graphics
 - [ ] Make a discord bot with a web dashboard
 
 You can join my discord here:\
