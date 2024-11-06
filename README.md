@@ -6,6 +6,9 @@ Hey there im Jay im a coding enthusiast based in germany. I have experience with
 You can join my discord here:\
 ![Discord Banner 3](https://discordapp.com/api/guilds/1037850846442037308/widget.png?style=banner3)
 
+Support me on Ko-Fi:
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K815PQG8)
+
 
 Holopin:
 [![@unbeeyt's Holopin board](https://holopin.me/unbeeyt)](https://holopin.io/@unbeeyt)
