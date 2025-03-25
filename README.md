@@ -4,7 +4,7 @@ Hey there im Jay im a coding enthusiast based in germany. I have experience with
 
 
 You can join my discord here:\
-![Discord Banner 3](https://discordapp.com/api/guilds//widget.png?style=banner3)
+![Discord Banner 3](https://discordapp.com/api/guilds/1354240849109717032/widget.png?style=banner3)
 
 Support me on Ko-Fi:
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K815PQG8)
